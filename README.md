@@ -22,5 +22,6 @@
 - 📙 HTML5
 - 📘 CSS3
 - 📒 JavaScript
+- 🌱 Estudando NodeJS
 - 📫 Entre em contato: igorcesar.dev@gmail.com
 - ⚡ Fato engraçado: Não sou o Harry Potter :upside_down_face:	
