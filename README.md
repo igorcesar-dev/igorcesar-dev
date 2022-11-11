@@ -5,15 +5,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcesar-dev&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Guinho-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Guinho-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Guinho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Guinho-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Guinho-Mysql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Guinho-Handlebars" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" />
           
-          
-  
   ##
  
 <div> 
@@ -22,13 +14,17 @@
   <a href="https://t.me/igorcesars"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
 
 </div>
+  <h2>🔥 Back-end</h2>
+   <p><img align="center" alt="Guinho-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">NodeJS</p>
+   <p><img align="center" alt="Guinho-Mysql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">MySQL</p>
+  
+  
+  <h2>🌈 Front-End</h2>
+  <p><img align="center" alt="Guinho-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">HTML5</p>
+  <p><img align="center" alt="Guinho-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">CSS3</p>
+  <p><img align="center" alt="Guinho-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">JavaScript</p>
 
-- 📗 NodeJS
-- 📓 MySQL
-- 📙 HTML5
-- 📘 CSS3
-- 📒 JavaScript
-- 🌱 Estudando NodeJS
-- 📙 Handlebars
-- 📫 Entre em contato: igorcesar.dev@gmail.com
+  <br>
+  
+  - 📫 Entre em contato: igorcesar.dev@gmail.com
 - ⚡ Fato engraçado: Não sou o Harry Potter :upside_down_face:	
