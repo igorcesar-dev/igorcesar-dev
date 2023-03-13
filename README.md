@@ -24,8 +24,8 @@ Olá! Meu nome é Igor César<br>Atualmente estou cursando Sistemas de Informaç
 
 # 📊 GitHub Stats:
 <div>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=igorcesar-dev&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcesar-dev&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=igorcesar-dev&show_icons=true&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcesar-dev&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=16"
      </div>
   <br>
   
