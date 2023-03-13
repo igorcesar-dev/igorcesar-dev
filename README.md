@@ -23,9 +23,8 @@ Olá! Meu nome é Igor César<br>Atualmente estou cursando Sistemas de Informaç
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-<p style="width="30rem">
 ![](https://github-readme-stats.vercel.app/api?username=i&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=i&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=i&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
   <br>
