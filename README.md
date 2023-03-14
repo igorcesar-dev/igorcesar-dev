@@ -1,14 +1,12 @@
 # 💫 About Me:
 Olá! Meu nome é Igor César<br>Atualmente estou cursando Sistemas de Informação no IFBA (IFBA - Instituto Federal de Educação, Ciência e Tecnologia da Bahia), possuo conhecimentos em JavaScript, Node.JS, Python, Java e entre outras ferramentas. Fique a vontade para explorar meus códigos.
 
-# 📊 GitHub Stats:
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorcesar-dev&show_icons=true&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcesar-dev&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=16"
      </div>
 <br>
 
-# 💻 Tech Stack:
 ### Front:
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
