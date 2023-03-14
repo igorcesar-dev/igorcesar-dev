@@ -23,7 +23,7 @@ Atualmente estou cursando Sistemas de Informação no IFBA (IFBA - Instituto Fed
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🌐 Socials:
+## 🌐 Social:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/igor-cesar/) 
 
   - 📫 Entre em contato: igorcesar.dev@gmail.com
