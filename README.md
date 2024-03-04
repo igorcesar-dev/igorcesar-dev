@@ -2,7 +2,7 @@
 Atualmente estou cursando Sistemas de Informação no IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia), possuo conhecimentos em JavaScript, Node.JS, Python, Java e entre outras ferramentas. Fique a vontade para explorar meus códigos.
 
 <div>
-     <img width="60%" height="180em" src="https://github-readme-stats.vercel.app/api?username=igorcesar-dev&show_icons=true&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorcesar-dev&show_icons=true&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true">
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorcesar-dev&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=16">
 </div>
 <br>
